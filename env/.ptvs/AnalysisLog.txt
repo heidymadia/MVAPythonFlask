@@ -9441,3 +9441,35 @@ System.FormatException: Input string was not in a correct format.
 2017-06-20T17:29:22: Deleting 2 files
 2017-06-20T17:29:22: Deleting "c:\users\heidy\documents\visual studio 2017\Projects\MVAPythonFlask\MVAPythonFlask\env\.ptvs\_dummy_threading.idb"
 2017-06-20T17:29:22: Deleting "c:\users\heidy\documents\visual studio 2017\Projects\MVAPythonFlask\MVAPythonFlask\env\.ptvs\_dummy__threading_local.idb"
+
+2017-06-27T07:15:23: Start analysis
+2017-06-27T07:15:24: IncludeModulesFromModulePath = win32com
+2017-06-27T07:15:25: Deleting 0 files
+2017-06-27T07:15:26: astropy.CallDepth = 0
+2017-06-27T07:15:26: delphixpy.CallDepth = 0
+2017-06-27T07:15:26: matplotlib.CallDepth = 3
+2017-06-27T07:15:26: pandas.CallDepth = 0
+2017-06-27T07:15:26: sympy.CallDepth = 0
+2017-06-27T07:15:26: Start group "c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis" with 8 files
+2017-06-27T07:15:26: Parsing "redis.client" ("c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis\client.py")
+2017-06-27T07:15:26: Parsing "redis.connection" ("c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis\connection.py")
+2017-06-27T07:15:26: Parsing "redis.exceptions" ("c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis\exceptions.py")
+2017-06-27T07:15:26: Parsing "redis.lock" ("c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis\lock.py")
+2017-06-27T07:15:26: Parsing "redis.sentinel" ("c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis\sentinel.py")
+2017-06-27T07:15:26: Parsing "redis.utils" ("c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis\utils.py")
+2017-06-27T07:15:26: Parsing "redis._compat" ("c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis\_compat.py")
+2017-06-27T07:15:26: Parsing "redis" ("c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis\__init__.py")
+2017-06-27T07:15:26: Parsing complete
+2017-06-27T07:15:26: Analyzing "redis.client"
+2017-06-27T07:15:26: Analyzing "redis.connection"
+2017-06-27T07:15:26: Analyzing "redis.exceptions"
+2017-06-27T07:15:26: Analyzing "redis.lock"
+2017-06-27T07:15:26: Analyzing "redis.sentinel"
+2017-06-27T07:15:26: Analyzing "redis.utils"
+2017-06-27T07:15:26: Analyzing "redis._compat"
+2017-06-27T07:15:26: Analyzing "redis"
+2017-06-27T07:15:26: Starting analysis of 8 modules
+2017-06-27T07:15:45: Analysis complete
+2017-06-27T07:15:45: Saving group "c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis"
+2017-06-27T07:15:45: End of group "c:\users\heidy\documents\visual studio 2017\projects\mvapythonflask\mvapythonflask\env\lib\site-packages\redis"
+2017-06-27T07:15:46: Deleting 0 files
